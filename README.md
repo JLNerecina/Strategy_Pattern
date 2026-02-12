@@ -15,7 +15,7 @@ This project refactors a tightly-coupled character class (with if-else condition
 
 ## UML Class Diagram
 
-![Strategy Pattern UML – Game Characters]((https://github.com/JLNerecina/Strategy_Pattern/blob/main/Strategy%20Pattern%20UML%20Diagram.png))
+![Strategy Pattern UML – Game Characters](https://github.com/JLNerecina/Strategy_Pattern/blob/main/Strategy%20Pattern%20UML%20Diagram.png)
 
 
 ## Project Structure
