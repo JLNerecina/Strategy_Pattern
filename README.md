@@ -87,6 +87,7 @@ Great for learning behavioral design patterns, refactoring legacy code, and buil
 Java (JDK 8 or higher)
 No external dependencies
 
+## Notes 
 - Feel free to fork, star ⭐ or use as reference for your own design pattern studies!
 - Made with 💻 by John Lian R. Nerecina
 - New Era University
