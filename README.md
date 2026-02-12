@@ -15,7 +15,7 @@ This project refactors a tightly-coupled character class (with if-else condition
 
 ## UML Class Diagram
 
-![Strategy Pattern UML – Game Characters](https://your-lucidchart-public-link-or-image-url-here.png)
+![Strategy Pattern UML – Game Characters]([https://github.com/JLNerecina/Strategy_Pattern/blob/main/Strategy%20Pattern%20UML%20Diagram.png])
 
 
 ## Project Structure
@@ -87,7 +87,7 @@ Great for learning behavioral design patterns, refactoring legacy code, and buil
 Java (JDK 8 or higher)
 No external dependencies
 
-Feel free to fork, star ⭐ or use as reference for your own design pattern studies!
-Made with 💻 by John Lian R. Nerecina
-New Era University
-Software Engineering 2
+- Feel free to fork, star ⭐ or use as reference for your own design pattern studies!
+- Made with 💻 by John Lian R. Nerecina
+- New Era University
+- Software Engineering 2
